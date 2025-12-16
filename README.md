@@ -8,7 +8,7 @@ its first version, so it will improves over time <3
 
 add your servers into client.cfg(template included)
 
-install golang(google how to install)
+install golang v1.25.5 (google how to install)
 
 and build it: go build -o 3x-ui-aggregator
 
